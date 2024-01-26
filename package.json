@@ -1,5 +1,5 @@
 {
-  "name": "@mapbox/mbview",
+  "name": "@glint-solar/mbview",
   "version": "5.1.0",
   "description": "Watch mbtiles in your localhost",
   "bin": {
@@ -37,12 +37,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/mapbox/mbview.git"
+    "url": "git://github.com/Glint-Solar/mbview.git"
   },
   "bugs": {
-    "url": "https://github.com/mapbox/mbview/issues"
+    "url": "https://github.com/Glint-Solar/mbview/issues"
   },
-  "homepage": "https://github.com/mapbox/mbview#readme",
+  "homepage": "https://github.com/Glint-Solar/mbview#readme",
   "engines": {
     "node": ">=12"
   }
