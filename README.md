@@ -16,7 +16,7 @@ You can obtain a mapbox public token by signing up [here](https://www.mapbox.com
 Global install
 
 ```bash
-% npm install -g @mapbox/mbview
+% npm install -g @glint-solar/mbview
 % mbview
 ```
 
